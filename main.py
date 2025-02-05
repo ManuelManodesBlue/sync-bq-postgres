@@ -1,0 +1,3 @@
+from src.reglas_cliente import procesar_reglas_cliente
+
+procesar_reglas_cliente()
