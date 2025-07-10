@@ -1,5 +1,6 @@
 # Ignorar entornos virtuales de Python
 venv/
+.venv/
 .env/
 
 # Ignorar el json con credenciales de GCP
